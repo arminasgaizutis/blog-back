@@ -6,10 +6,10 @@
 
 # Built With
 
-MongoDB - Database
-Express - NodeJS Framework
-React - Frontend
-NodeJS - Backend
+MongoDB - Database,
+Express - NodeJS Framework,
+React - Frontend,
+NodeJS - Backend,
 
 # To run application you need to:
 
